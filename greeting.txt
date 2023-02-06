@@ -1,3 +1,1 @@
-Learning about merging branches 
-git merge function : takes branch name as argument to take changes from
-and update to the branch pointed by head.
+Learning about 3-way merging 
