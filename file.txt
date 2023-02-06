@@ -1,0 +1,5 @@
+Running Git kata commands from my laptop
+1.git status
+2.git add
+3.git log
+
